@@ -1,43 +1,32 @@
 # Bonjour 👋
 
-Je suis `mxhthieu` — développeur·se passionné·e par le code, l'apprentissage continu et les projets open source.
+Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en formation orientée développement logiciel.
 
 ## 🔭 À propos
 
-- J'aime construire des applications simples et robustes.
-- Je m'intéresse particulièrement à l'open source, aux bonnes pratiques et à l'amélioration continue.
+- Apprenti passionné par le développement et l'apprentissage pratique en entreprise.
 
-## 💡 Compétences (à adapter)
+## 💡 Compétences
 
-- Langages : JavaScript, TypeScript, Python
-- Frameworks / bibliothèques : React, Node.js
-- Outils : Git, Docker, CI/CD
+- (à compléter)
 
-## 🛠 Projets récents
+## 🛠 Projets
 
-- Projet A — courte description (lien ou repo)
-- Projet B — courte description (lien ou repo)
-
-> Remplacez ces lignes par vos projets actuels ou par des liens vers vos dépôts.
+- Aucun portfolio public pour le moment — je publierai des projets ici quand ils seront disponibles.
 
 ## 🌱 Actuellement
 
-Je me forme / travaille sur : architectures serverless, tests automatisés, et amélioration de la qualité logicielle.
+- Formation et travaux pratiques à l'ENI ; j'apprends les bonnes pratiques du développement et les outils modernes.
 
 ## 📫 Contact
 
 - GitHub : https://github.com/mxhthieu
-- Email : votre.email@example.com (remplacez par votre contact)
+- Email : pas d'email public
 
-## 🌍 Langues
+## 🔗 Autres
 
-- Français (natif)
-- Anglais (professionnel)
-
-## ⚡ Fun
-
-- Passionné·e par la technologie, le café et résoudre des défis techniques.
+- LinkedIn : https://www.linkedin.com/in/mathieu-herbelet
 
 ---
 
-Si vous le souhaitez, je peux personnaliser ce README avec vos vraies compétences, liens vers vos projets et une biographie plus détaillée — fournissez simplement les informations à afficher et je les ajouterai.
+N'hésitez pas à me donner des compétences précises, des projets ou un email si vous voulez que je complète le README.
