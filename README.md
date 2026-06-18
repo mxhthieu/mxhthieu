@@ -27,7 +27,7 @@ Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en for
 ## 📫 Contact
 
 - GitHub : https://github.com/mxhthieu
-- Email : pas d'email public
+
 
 ## 🔗 Autres
 
