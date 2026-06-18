@@ -8,7 +8,9 @@ Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en for
 
 ## 💡 Compétences
 
-- (à compléter)
+- Langages : JavaScript, TypeScript, Python
+- Frameworks / bibliothèques : React, Node.js
+- Outils : Git, Docker, CI/CD
 
 ## 🛠 Projets
 
@@ -29,4 +31,8 @@ Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en for
 
 ---
 
-N'hésitez pas à me donner des compétences précises, des projets ou un email si vous voulez que je complète le README.
+N'hésitez pas à me donner :
+- des compétences précises (langages, frameworks, outils),
+- 1–3 projets à référencer (nom — description — lien),
+- un email si vous souhaitez le rendre public,
+et je mettrai à jour le README immédiatement.
