@@ -8,17 +8,21 @@ Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en for
 
 ## 💡 Compétences
 
-- Langages : JavaScript, TypeScript, Python
+- Langages : JavaScript (intermédiaire), TypeScript (intermédiaire), Python (débutant)
 - Frameworks / bibliothèques : React, Node.js
-- Outils : Git, Docker, CI/CD
+- Outils : Git, Docker, GitHub Actions, VS Code
+- Concepts : API REST, tests automatisés (bases), CI/CD
 
 ## 🛠 Projets
 
-- Aucun portfolio public pour le moment — je publierai des projets ici quand ils seront disponibles.
+- Projet d'exemple — Application TODO (exercice de formation, bientôt publique)
+- Travaux ENI — exercices et petits projets réalisés en cours (non publiés)
+
+> Je n'ai pas encore de portfolio public ; je publierai des projets dès qu'ils seront disponibles.
 
 ## 🌱 Actuellement
 
-- Formation et travaux pratiques à l'ENI ; j'apprends les bonnes pratiques du développement et les outils modernes.
+- Formation et travaux pratiques à l'ENI ; j'approfondis les bonnes pratiques du développement (tests, CI/CD) et la programmation web.
 
 ## 📫 Contact
 
@@ -31,8 +35,4 @@ Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en for
 
 ---
 
-N'hésitez pas à me donner :
-- des compétences précises (langages, frameworks, outils),
-- 1–3 projets à référencer (nom — description — lien),
-- un email si vous souhaitez le rendre public,
-et je mettrai à jour le README immédiatement.
+Si vous voulez que j'ajoute des niveaux précis, des projets avec liens ou un email public, dites-le et je mettrai à jour le README.
