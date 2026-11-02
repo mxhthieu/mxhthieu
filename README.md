@@ -1,24 +1,34 @@
 # Bonjour 👋
 
-Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en formation orientée développement logiciel.
+Je suis **Mathieu HERBELET** — Lead Développeur et Full Stack.
 
 ## 🔭 À propos
 
-- Apprenti passionné par le développement et l'apprentissage pratique en entreprise.
+🚀 J'aime concevoir des applications modernes, performantes et évolutives.
+
+💻 Développeur Full-Stack, je travaille aussi bien sur le front-end que sur le back-end, avec un intérêt particulier pour l'architecture logicielle et les bonnes pratiques de développement.
+
+👥 Fort d'une première expérience en tant que Lead Développeur Junior, j'ai eu l'opportunité de coordonner une équipe, de piloter des développements et d'accompagner d'autres développeurs.
+
+🛠️ Attaché à la qualité du code, à l'expérience utilisateur et à la résolution de problèmes, j'aime relever des défis techniques et trouver des solutions adaptées.
+
+📚 Curieux et toujours motivé pour apprendre, je cherche constamment à développer mes compétences, explorer de nouvelles technologies et progresser.
+
+🤝 Convaincu que les meilleurs projets se construisent en équipe, j'accorde une grande importance au partage de connaissances, à la collaboration et à l'entraide.
 
 ## 💡 Compétences
 
-- Langages : JavaScript (intermédiaire), TypeScript (intermédiaire), Python (débutant)
-- Frameworks / bibliothèques : React, Node.js
+- Langages : JavaScript, TypeScript, Python, PHP
+- Frameworks / bibliothèques : React, Node.js, Symfony, 
 - Outils : Git, Docker, GitHub Actions, VS Code
 - Concepts : API REST, tests automatisés (bases), CI/CD
 
 ## 🛠 Projets
 
-- Projet d'exemple — Application TODO (exercice de formation, bientôt publique)
-- Travaux ENI — exercices et petits projets réalisés en cours (non publiés)
+- Travaux ENI — Conception et développement d'une application web de type Learning Management System (LMS).
+- TrustLayer - Développement d'une application Web full-stack qui exploite l'IA (Claude Sonnet) pour détecter automatiquement les failles de sécurité dans votre code. 
 
-> Je n'ai pas encore de portfolio public ; je publierai des projets dès qu'ils seront disponibles.
+Je n'ai pas encore de portfolio public ; je publierai des projets dès qu'ils seront disponibles.
 
 ## 🌱 Actuellement
 
@@ -27,12 +37,6 @@ Je suis **Mathieu HERBELET** — apprenti à l'école l'Eni, actuellement en for
 ## 📫 Contact
 
 - GitHub : https://github.com/mxhthieu
-
-
-## 🔗 Autres
-
 - LinkedIn : https://www.linkedin.com/in/mathieu-herbelet
 
----
 
-Si vous voulez que j'ajoute des niveaux précis, des projets avec liens ou un email public, dites-le et je mettrai à jour le README.
