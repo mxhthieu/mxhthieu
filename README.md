@@ -32,11 +32,9 @@ Je n'ai pas encore de portfolio public ; je publierai des projets dès qu'ils se
 
 ## 🌱 Actuellement
 
-- Formation et travaux pratiques à l'ENI ; j'approfondis les bonnes pratiques du développement (tests, CI/CD) et la programmation web.
+- J’approfondis continuellement mes connaissances des bonnes pratiques de développement, notamment en matière de tests automatisés, d’intégration et de déploiement continus (CI/CD), ainsi que la sécurité des applications web.
 
-## 📫 Contact
+## 📫 Pour me contacter
 
 - GitHub : https://github.com/mxhthieu
 - LinkedIn : https://www.linkedin.com/in/mathieu-herbelet
-
-
